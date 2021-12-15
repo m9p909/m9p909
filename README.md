@@ -9,7 +9,7 @@
 
 [![Jacks Github Stats](https://github-readme-stats.vercel.app/api?username=m9p909&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-#### These languages do not include private repos, I have written a lot of java and javascript in internships
+#### These languages do not include private repos, I have written a lot of java, javascript and typescript in internships
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m9p909&exclude_repo=RoomMateNotificationSystem)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
