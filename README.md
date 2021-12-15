@@ -8,8 +8,8 @@
 - ⚡ Fun fact: I like trains
 
 [![Jacks Github Stats](https://github-readme-stats.vercel.app/api?username=m9p909&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-### Note: this is mostly coursework since my internship contributions are private
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m9p909&hide=python)](https://github.com/anuraghazra/github-readme-stats)
+### Language stats are very misleading, proveed with caution
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m9p909&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
