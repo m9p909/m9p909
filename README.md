@@ -7,7 +7,9 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I like trains
 
-[![Jacks Github Stats](https://github-readme-stats.vercel.app/api?username=m9p909)](https://github.com/anuraghazra/github-readme-stats)
+[![Jacks Github Stats](https://github-readme-stats.vercel.app/api?username=m9p909&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **m9p909/m9p909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
