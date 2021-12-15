@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with data engineering or ML engineering
 - 💬 Ask me about Java, javascript or python
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: the most common language on my public github is python
+- ⚡ Fun fact: I like trains
 
 [![Jacks Github Stats](https://github-readme-stats.vercel.app/api?username=m9p909&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
