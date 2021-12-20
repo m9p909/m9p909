@@ -7,6 +7,8 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I like trains
 
+![Jack Codewars](https://www.codewars.com/users/m9p909/badges/large "Codewars")
+
 [![Jacks Github Stats](https://github-readme-stats.vercel.app/api?username=m9p909&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### These languages do not include private repos, I have written a lot of java, javascript and typescript in internships
