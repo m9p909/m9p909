@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on 20 projects none of which will be finished
 - 🌱 I’m currently learning clojure and interested in data engineering
 - 🤔 I’m looking for help with data engineering 
-- 💬 Ask me about Java, javascript or python
+- 💬 Ask me about Java, JavaScript, Python or Clojure
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I like trains
 
