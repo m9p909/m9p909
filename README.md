@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Deep Learning and interested in data engineering
 - 💬 Ask me about idk anything. I like to think I'm a Jack of all trades. 
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I like trains
+- ⚡ Fun fact: I love fantasy, and read a lot! add me on goodreads! https://www.goodreads.com/user/show/67451152-jack-clarke
 
 [![Jack Codewars](https://www.codewars.com/users/m9p909/badges/large "Codewars")](https://www.codewars.com/users/m9p909)
 
