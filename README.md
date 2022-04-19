@@ -1,9 +1,8 @@
 ### Hi there, I'm Jack! 👋
 
 - 🔭 I’m currently working on 20 projects none of which will be finished
-- 🌱 I’m currently learning clojure and interested in data engineering
-- 🤔 I’m looking for help with data engineering 
-- 💬 Ask me about Full Stack Web Dev
+- 🌱 I’m currently learning Deep Learning and interested in data engineering
+- 💬 Ask me about idk anything. I like to think I'm a Jack of all trades. 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I like trains
 
