@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on 20 projects none of which will be finished
 - 🌱 I’m currently learning school stuff, reading Accelerate by Nicole Forsgren, PhD, Jez Humble, and Gene Kim
-- 💬 Ask me about anything. I like to think I'm a Jack of all trades. I'm good with a variety of languages for web dev and automation. I also know some ML, just for fun. 
+- 💬 Ask me about anything. I like to think I'm a Jack of all trades. I'm good with a variety of languages for web dev and automation. I also know some ML and scientific computing in python, just for fun. 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love fantasy, and read a lot! add me on goodreads! https://www.goodreads.com/user/show/67451152-jack-clarke
 
