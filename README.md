@@ -1,8 +1,8 @@
 ### Hi there, I'm Jack! 👋
 
 - 🔭 I’m currently working on 20 projects none of which will be finished
-- 🌱 I’m currently learning Deep Learning and interested in data engineering
-- 💬 Ask me about idk anything. I like to think I'm a Jack of all trades. 
+- 🌱 I’m currently learning school stuff
+- 💬 Ask me about idk anything. I like to think I'm a Jack of all trades. I'm good with a variety of languages for web dev and automation. I also know some ML, just for fun. 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love fantasy, and read a lot! add me on goodreads! https://www.goodreads.com/user/show/67451152-jack-clarke
 
