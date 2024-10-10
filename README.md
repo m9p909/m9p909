@@ -6,4 +6,5 @@ I'm a professional Software Developer in Ottawa Ontario with 1.5 years of experi
 
 
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I love fantasy, and read a lot! add me on goodreads! https://www.goodreads.com/user/show/67451152-jack-clarke
+- Check out my Alpha-Beta Minimax battlesnake: https://github.com/m9p909/jacksnake
+- 
