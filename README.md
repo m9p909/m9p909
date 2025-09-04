@@ -6,4 +6,4 @@ I'm a professional Software Developer in Ottawa Ontario with 2 years of experien
 
 
 - 😄 Pronouns: He/him
-- Check out my Alpha-Beta Minimax battlesnake: https://github.com/m9p909/jacksnake
+- Check out my Alpha-Beta Minimax snake player: https://github.com/m9p909/jacksnake
